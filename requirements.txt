@@ -1,0 +1,12 @@
+yfinance
+finvizfinance
+statsmodels
+plotly
+holidays
+langchain_community
+langchain_ollama
+
+
+
+#python -m pip install -U --force-reinstall yfinance 
+
